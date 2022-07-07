@@ -14,7 +14,6 @@ namespace aspnetmvc
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("aaaa");
             CreateWebHostBuilder(args).Build().Run();
         }
 
